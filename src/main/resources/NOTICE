@@ -1,0 +1,37 @@
+Backpackery — third-party notices
+=================================
+
+GUI and upgrade textures
+------------------------
+The following texture files are copied from Sophisticated Core and
+Sophisticated Backpacks by P3pp3rF1y and contributors, which are licensed
+under the GNU General Public License v3.0:
+
+  assets/backpackery/textures/gui/storage_background_9.png
+  assets/backpackery/textures/gui/storage_background_12.png
+  assets/backpackery/textures/gui/slots_background.png
+  assets/backpackery/textures/gui/gui_controls.png
+  assets/backpackery/textures/gui/icons.png
+  assets/backpackery/textures/gui/empty_upgrade_slot.png
+  assets/backpackery/textures/item/upgrade_base.png
+  assets/backpackery/textures/item/pickup_upgrade.png
+  assets/backpackery/textures/item/filter_upgrade.png
+  assets/backpackery/textures/item/magnet_upgrade.png
+  assets/backpackery/textures/item/void_upgrade.png
+  assets/backpackery/textures/item/compacting_upgrade.png
+  assets/backpackery/textures/item/advanced_compacting_upgrade.png
+  assets/backpackery/textures/item/feeding_upgrade.png
+  assets/backpackery/textures/item/stack_upgrade_tier_1.png
+  assets/backpackery/textures/item/stack_upgrade_tier_2.png
+  assets/backpackery/textures/item/stack_upgrade_tier_3.png
+  assets/backpackery/textures/item/stack_upgrade_tier_4.png
+
+Source projects:
+  https://github.com/P3pp3rF1y/SophisticatedCore
+  https://github.com/P3pp3rF1y/SophisticatedBackpacks
+
+Because these assets are GPLv3, Backpackery as a whole is distributed under
+the GNU General Public License v3.0 (GPL-3.0-only). See LICENSE.
+
+Everything else (Java code, layouts, models, recipes, translations) is an
+independent implementation for Minecraft 26.3 / Fabric.

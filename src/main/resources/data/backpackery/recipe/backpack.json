@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SLS",
+    "SCS",
+    "LLL"
+  ],
+  "key": {
+    "S": "#c:strings",
+    "L": "#c:leathers",
+    "C": "#c:chests/wooden"
+  },
+  "result": {
+    "id": "backpackery:backpack",
+    "count": 1
+  }
+}

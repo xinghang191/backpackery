@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "backpackery",
+  "version": "${version}",
+  "name": "Backpackery",
+  "description": "Tiered backpacks with upgrade slots for Fabric 26.3, with a Sophisticated Backpacks style UI.",
+  "authors": [
+    "backpackery"
+  ],
+  "contributors": [
+    "P3pp3rF1y (Sophisticated Backpacks / Sophisticated Core textures)"
+  ],
+  "license": "GPL-3.0-only",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.backpackery.Backpackery"
+    ],
+    "client": [
+      "com.backpackery.client.BackpackeryClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

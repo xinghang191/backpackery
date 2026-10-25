@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "OBO",
+    "ROR"
+  ],
+  "key": {
+    "E": "#c:ender_pearls",
+    "O": "#c:obsidians",
+    "B": "backpackery:upgrade_base",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "backpackery:void_upgrade",
+    "count": 1
+  }
+}

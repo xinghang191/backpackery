@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "GCG",
+    "RRR"
+  ],
+  "key": {
+    "D": "#c:gems/diamond",
+    "G": "#c:ingots/gold",
+    "C": "backpackery:compacting_upgrade",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "backpackery:advanced_compacting_upgrade",
+    "count": 1
+  }
+}

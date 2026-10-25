@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GSG",
+    "GGG"
+  ],
+  "key": {
+    "G": "#c:storage_blocks/gold",
+    "S": "backpackery:stack_upgrade_1"
+  },
+  "result": {
+    "id": "backpackery:stack_upgrade_2",
+    "count": 1
+  }
+}

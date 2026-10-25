@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "LSL",
+    " L "
+  ],
+  "key": {
+    "L": "#minecraft:logs",
+    "S": "backpackery:auto_smelting_upgrade"
+  },
+  "result": {
+    "id": "backpackery:auto_smoking_upgrade",
+    "count": 1
+  }
+}

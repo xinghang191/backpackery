@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GPG",
+    "RRR"
+  ],
+  "key": {
+    "G": "#c:ingots/gold",
+    "P": "backpackery:filter_upgrade",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "backpackery:advanced_filter_upgrade",
+    "count": 1
+  }
+}

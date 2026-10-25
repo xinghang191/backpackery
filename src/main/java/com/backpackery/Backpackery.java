@@ -1,0 +1,26 @@
+package com.backpackery;
+
+import com.backpackery.logic.PickupLogic;
+import com.backpackery.logic.SelfTestCommand;
+import net.fabricmc.api.ModInitializer;
+import net.minecraft.resources.Identifier;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class Backpackery implements ModInitializer {
+	public static final String MOD_ID = "backpackery";
+	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+
+	public static Identifier id(String path) {
+		return Identifier.fromNamespaceAndPath(MOD_ID, path);
+	}
+
+	@Override
+	public void onInitialize() {
+		ModMenus.init();
+		ModItems.init();
+		PickupLogic.init();
+		SelfTestCommand.init();
+		LOGGER.info("[backpackery] registered {} items, {} menu types", ModItems.ALL.size(), ModMenus.TIERS + 1);
+	}
+}

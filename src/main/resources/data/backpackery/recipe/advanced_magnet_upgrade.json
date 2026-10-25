@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EIE",
+    "IPI",
+    "R L"
+  ],
+  "key": {
+    "E": "#c:ender_pearls",
+    "I": "#c:ingots/iron",
+    "P": "backpackery:advanced_pickup_upgrade",
+    "R": "#c:dusts/redstone",
+    "L": "#c:gems/lapis"
+  },
+  "result": {
+    "id": "backpackery:advanced_magnet_upgrade",
+    "count": 1
+  }
+}

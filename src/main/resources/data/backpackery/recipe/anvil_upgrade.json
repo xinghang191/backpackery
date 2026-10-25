@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    "IBI",
+    " C "
+  ],
+  "key": {
+    "A": "minecraft:anvil",
+    "D": "#c:gems/diamond",
+    "I": "#c:ingots/iron",
+    "B": "backpackery:upgrade_base",
+    "C": "#c:chests/wooden"
+  },
+  "result": {
+    "id": "backpackery:anvil_upgrade",
+    "count": 1
+  }
+}

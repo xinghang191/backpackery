@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "GMG",
+    "RRR"
+  ],
+  "key": {
+    "D": "#c:gems/diamond",
+    "G": "#c:ingots/gold",
+    "M": "backpackery:magnet_upgrade",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "backpackery:advanced_magnet_upgrade",
+    "count": 1
+  }
+}

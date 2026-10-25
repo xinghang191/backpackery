@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "GVG",
+    "RRR"
+  ],
+  "key": {
+    "D": "#c:gems/diamond",
+    "G": "#c:ingots/gold",
+    "V": "backpackery:feeding_upgrade",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "backpackery:advanced_feeding_upgrade",
+    "count": 1
+  }
+}

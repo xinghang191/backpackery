@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IPI",
+    "PBP",
+    "RPR"
+  ],
+  "key": {
+    "I": "#c:ingots/iron",
+    "P": "minecraft:piston",
+    "B": "backpackery:upgrade_base",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "backpackery:compacting_upgrade",
+    "count": 1
+  }
+}

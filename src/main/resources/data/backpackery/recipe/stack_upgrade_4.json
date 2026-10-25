@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NSN",
+    "NNN"
+  ],
+  "key": {
+    "N": "#c:storage_blocks/netherite",
+    "S": "backpackery:stack_upgrade_3"
+  },
+  "result": {
+    "id": "backpackery:stack_upgrade_4",
+    "count": 1
+  }
+}

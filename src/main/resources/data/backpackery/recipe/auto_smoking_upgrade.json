@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DHD",
+    "RSH",
+    "GHG"
+  ],
+  "key": {
+    "D": "#c:gems/diamond",
+    "H": "minecraft:hopper",
+    "R": "#c:dusts/redstone",
+    "S": "backpackery:smoking_upgrade",
+    "G": "#c:ingots/gold"
+  },
+  "result": {
+    "id": "backpackery:auto_smoking_upgrade",
+    "count": 1
+  }
+}

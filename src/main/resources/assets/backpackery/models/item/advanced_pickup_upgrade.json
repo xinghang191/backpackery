@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "backpackery:item/advanced_pickup_upgrade"
+                 },
+    "parent":  "minecraft:item/generated"
+}

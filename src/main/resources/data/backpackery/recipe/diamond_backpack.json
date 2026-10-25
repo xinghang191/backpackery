@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DBD",
+    "DDD"
+  ],
+  "key": {
+    "D": "#c:gems/diamond",
+    "B": "backpackery:gold_backpack"
+  },
+  "result": {
+    "id": "backpackery:diamond_backpack",
+    "count": 1
+  }
+}

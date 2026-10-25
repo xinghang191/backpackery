@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RIR",
+    "IBI",
+    "RSR"
+  ],
+  "key": {
+    "R": "#c:dusts/redstone",
+    "I": "#c:ingots/iron",
+    "B": "backpackery:upgrade_base",
+    "S": "minecraft:smoker"
+  },
+  "result": {
+    "id": "backpackery:smoking_upgrade",
+    "count": 1
+  }
+}

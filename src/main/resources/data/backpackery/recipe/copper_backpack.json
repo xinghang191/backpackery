@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CBC",
+    "CCC"
+  ],
+  "key": {
+    "C": "#c:ingots/copper",
+    "B": "backpackery:backpack"
+  },
+  "result": {
+    "id": "backpackery:copper_backpack",
+    "count": 1
+  }
+}

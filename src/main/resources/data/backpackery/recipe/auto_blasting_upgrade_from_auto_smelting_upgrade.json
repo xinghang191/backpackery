@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "ISI",
+    "TTT"
+  ],
+  "key": {
+    "I": "#c:ingots/iron",
+    "S": "backpackery:auto_smelting_upgrade",
+    "T": "minecraft:smooth_stone"
+  },
+  "result": {
+    "id": "backpackery:auto_blasting_upgrade",
+    "count": 1
+  }
+}

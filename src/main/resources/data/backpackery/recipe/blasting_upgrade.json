@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RIR",
+    "IBI",
+    "RFR"
+  ],
+  "key": {
+    "R": "#c:dusts/redstone",
+    "I": "#c:ingots/iron",
+    "B": "backpackery:upgrade_base",
+    "F": "minecraft:blast_furnace"
+  },
+  "result": {
+    "id": "backpackery:blasting_upgrade",
+    "count": 1
+  }
+}

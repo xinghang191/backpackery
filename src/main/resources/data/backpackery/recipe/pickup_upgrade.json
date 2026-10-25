@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "SBS",
+    "RRR"
+  ],
+  "key": {
+    "P": "minecraft:sticky_piston",
+    "S": "#c:strings",
+    "B": "backpackery:upgrade_base",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "backpackery:pickup_upgrade",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    "SBS",
+    "RSR"
+  ],
+  "key": {
+    "R": "#c:dusts/redstone",
+    "S": "#c:strings",
+    "B": "backpackery:upgrade_base"
+  },
+  "result": {
+    "id": "backpackery:filter_upgrade",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "ABM",
+    " E "
+  ],
+  "key": {
+    "C": "minecraft:golden_carrot",
+    "A": "minecraft:golden_apple",
+    "B": "backpackery:upgrade_base",
+    "M": "minecraft:glistering_melon_slice",
+    "E": "#c:ender_pearls"
+  },
+  "result": {
+    "id": "backpackery:feeding_upgrade",
+    "count": 1
+  }
+}
